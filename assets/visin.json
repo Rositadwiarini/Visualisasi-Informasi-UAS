@@ -1,0 +1,92 @@
+[
+ {
+   "kecamatan": "wadaslintang",
+   "puskesmas": "wadaslintang 1",
+   "bayi laki-laki hidup": 41,
+   "bayi laki-laki mati": 4,
+   "bayi perempuan hidup": 34,
+   "bayi perempuan mati": 7,
+   "ibu melahirkan mati": 3
+ },
+ {
+   "kecamatan": "wadaslintang",
+   "puskesmas": "wadaslintang 2",
+   "bayi laki-laki hidup": 13,
+   "bayi laki-laki mati": 0,
+   "bayi perempuan hidup": 20,
+   "bayi perempuan mati": 1,
+   "ibu melahirkan mati": 0
+ },
+ {
+   "kecamatan": "wadaslintang",
+   "puskesmas": "wadaslintang 3",
+   "bayi laki-laki hidup": 26,
+   "bayi laki-laki mati": 8,
+   "bayi perempuan hidup": 32,
+   "bayi perempuan mati": 9,
+   "ibu melahirkan mati": 6
+ },
+ {
+   "kecamatan": "wadaslintang",
+   "puskesmas": "wadaslintang 4",
+   "bayi laki-laki hidup": 19,
+   "bayi laki-laki mati": 1,
+   "bayi perempuan hidup": 11,
+   "bayi perempuan mati": 0,
+   "ibu melahirkan mati": 2
+ },
+ {
+   "kecamatan": "wadaslintang",
+   "puskesmas": "wadaslintang 5",
+   "bayi laki-laki hidup": 3,
+   "bayi laki-laki mati": 0,
+   "bayi perempuan hidup": 7,
+   "bayi perempuan mati": 0,
+   "ibu melahirkan mati": 0
+ },
+ {
+   "kecamatan": "kepil",
+   "puskesmas": "kepil 1",
+   "bayi laki-laki hidup": 53,
+   "bayi laki-laki mati": 10,
+   "bayi perempuan hidup": 69,
+   "bayi perempuan mati": 7,
+   "ibu melahirkan mati": 12
+ },
+ {
+   "kecamatan": "kepil",
+   "puskesmas": "kepil 2",
+   "bayi laki-laki hidup": 37,
+   "bayi laki-laki mati": 3,
+   "bayi perempuan hidup": 45,
+   "bayi perempuan mati": 5,
+   "ibu melahirkan mati": 8
+ },
+ {
+   "kecamatan": "kepil",
+   "puskesmas": "kepil 3",
+   "bayi laki-laki hidup": 29,
+   "bayi laki-laki mati": 1,
+   "bayi perempuan hidup": 33,
+   "bayi perempuan mati": 0,
+   "ibu melahirkan mati": 4
+ },
+ {
+   "kecamatan": "kepil",
+   "puskesmas": "kepil 4",
+   "bayi laki-laki hidup": 19,
+   "bayi laki-laki mati": 0,
+   "bayi perempuan hidup": 27,
+   "bayi perempuan mati": 0,
+   "ibu melahirkan mati": 2
+ },
+ {
+   "kecamatan": "kepil",
+   "puskesmas": "kepil 5",
+   "bayi laki-laki hidup": 21,
+   "bayi laki-laki mati": 0,
+   "bayi perempuan hidup": 30,
+   "bayi perempuan mati": 2,
+   "ibu melahirkan mati": 6
+ }
+]
